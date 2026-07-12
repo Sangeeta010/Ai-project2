@@ -1,0 +1,10 @@
+{
+  "name": "Alexa Voice Attendance Agent",
+  "description": "An interactive voice-controlled AI attendance agent named Alexa that takes attendance for roll numbers 1-91 and logs results to Google Sheets.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
